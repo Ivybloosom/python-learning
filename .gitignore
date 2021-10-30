@@ -1,0 +1,8 @@
+### Pycharm ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+# Mac #
+*.DS_Store
